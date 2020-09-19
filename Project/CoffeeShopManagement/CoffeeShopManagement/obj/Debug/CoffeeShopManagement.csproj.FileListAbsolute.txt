@@ -1,0 +1,12 @@
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\CoffeeShopManagement.exe.config
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\CoffeeShopManagement.exe
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\CoffeeShopManagement.pdb
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.csprojResolveAssemblyReference.cache
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.fLogin.resources
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.Properties.Resources.resources
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.csproj.GenerateResource.Cache
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.exe
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.pdb
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.fTableManager.resources
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.fAccountProfile.resources
+F:\CoffeeShopSoftware\Project\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.fAdmin.resources
